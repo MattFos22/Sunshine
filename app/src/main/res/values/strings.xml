@@ -15,5 +15,6 @@
     <string name="pref_unit_default">Metric</string>
     <string name="action_showlocation">Preferred Location</string>
     <string name="title_activity_show_location">ShowLocationActivity</string>
+    <string name="action_share">Share</string>
 
 </resources>
